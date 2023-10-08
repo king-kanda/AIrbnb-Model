@@ -18,4 +18,3 @@ Here is a table that summarizes the key differences between linear regression an
 | Flexibility | Less flexible | More flexible |
 | Predictive performance for Airbnb booking prices | Likely to be lower | Likely to be higher |
 
-Of course, the best way to determine which model performs better for your specific dataset is to train both models and compare their performance.
